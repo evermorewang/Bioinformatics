@@ -1,7 +1,7 @@
 """
 ProtTrans for protein analysis on M2 MacBook Air
 ------------------------------------------------
-This script demonstrates how to use ProtTrans models for protein analysis.
+This script demonstrates how to use ProtTrans models for protein analysis--get embeddings.
 """
 
 # Required packages - Install in PyCharm terminal:
